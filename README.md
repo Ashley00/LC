@@ -213,3 +213,4 @@ def purchaseLand(self, vec: List[List[int]]) -> int:
         return result
 ```
 TC:O(n^2)  SC:O(n)
+![image](https://github.com/user-attachments/assets/3d10324b-caeb-4f3e-9574-6d7d348cd660)
